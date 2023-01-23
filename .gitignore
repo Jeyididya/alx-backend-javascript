@@ -187,6 +187,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+main.js
 *.json
 *.config.js
 *.eslintrc.js
