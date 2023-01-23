@@ -187,9 +187,11 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-.json
-.config.js
-.eslint.js
+*.json
+*.config.js
+*.eslintrc.js
+
+
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,node
 
